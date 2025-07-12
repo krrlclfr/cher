@@ -1,5 +1,12 @@
 <script setup>
 import project_items from '@/helpers/Project.json'
+
+// project_items.forEach(item => {
+//   item.items = item.items.map(path =>
+//     new URL(`../${path}`, import.meta.url).href
+//   )
+// })
+
 </script>
 <template> 
     <div class="sm:h-auto grid grid-cols-1 place-items-center">

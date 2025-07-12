@@ -2,13 +2,13 @@
     {
         "name": "AR Movies",
         "items": [
-            "src/assets/output/movie/1.png",
-            "src/assets/output/movie/2.png",
-            "src/assets/output/movie/3.png",
-            "src/assets/output/movie/4.png",
-            "src/assets/output/movie/5.png",
-            "src/assets/output/movie/6.png",
-            "src/assets/output/movie/7.png"
+            "public/output/movie/1.png",
+            "public/output/movie/2.png",
+            "public/output/movie/3.png",
+            "public/output/movie/4.png",
+            "public/output/movie/5.png",
+            "public/output/movie/6.png",
+            "public/output/movie/7.png"
         ],
         "text_title": "AR Movies",
         "text_desc": "Themoviedb.org API movies",
