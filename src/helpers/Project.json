@@ -1,0 +1,182 @@
+[
+    {
+        "name": "AR Movies",
+        "items": [
+            "src/assets/output/movie/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "AR Movies",
+        "text_desc": "Themoviedb.org API movies",
+        "year": " APRIL 2024"
+    },
+    {
+        "name": "Pharmacy Inventory",
+        "items": [
+            "src/assets/output/inventory/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "Pharmacy Inventory",
+        "text_desc": "Medicine Inventory for Pharmacy",
+        "year": "JANUARY 2024"
+    },
+    {
+        "name": "MEMESTAGRAM",
+        "items": [
+            "src/assets/output/memestagram/1.jpg",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "MEMESTAGRAM",
+        "text_desc": "Cloning instagram, a social media application",
+        "year": "NOVEMBER 2023"
+    },
+    {
+        "name": "Barangay Management system",
+        "items": [
+            "src/assets/output/bms/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "WBBMSBCC",
+        "text_desc": "A Web Based Barangay Management System in Barangay 12 Caloocan City ",
+        "year": "JULY 2022"
+    },
+    {
+        "name": "AR Coffee Shop",
+        "items": [
+            "src/assets/output/laravel-coffeeshop/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "Oycher Coffeeshop",
+        "text_desc": "E-commerce website",
+        "year": "MAY 2022"
+    },
+    {
+        "name": "Laravel Crud",
+        "items": [
+            "src/assets/output/laravel-crud/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "Laravel CRUD",
+        "text_desc": "Simple CRUD Operation using laravel",
+        "year": "MAY 2022"
+    },
+    {
+        "name": "CALCULATOR",
+        "items": [
+            "src/assets/output/calculator/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "CALCULATOR",
+        "text_desc": "Calculator in python pyqt5",
+        "year": "SEPTEMBER 2021"
+    },
+    {
+        "name": "ARCS",
+        "items": [
+            "src/assets/output/arcs/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "ARCS",
+        "text_desc": "Animal Rehabilitation Center System in Java",
+        "year": "MARCH 2021"
+    },
+    {
+        "name": "RED VELVET WEBSITE",
+        "items": [
+            "src/assets/output/rv/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "RED VELVET WEBSITE",
+        "text_desc": "Static website for Red Velvet",
+        "year": "FEBRUARY 2020"
+    },
+    {
+        "name": "FRIAM",
+        "items": [
+            "src/assets/output/face-recognition/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "FRIAM",
+        "text_desc": "Face Recognition in Attendance Monitoring",
+        "year": "JUNE 2020"
+    },
+    {
+        "name": "DDAJJ E-loading shop",
+        "items": [
+            "src/assets/output/system/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "DDAJJ E-loading shop",
+        "text_desc": "Desktop Application in python tkinker",
+        "year": "MAY 2020"
+    },
+    {
+        "name": "RPS",
+        "items": [
+            "src/assets/output/rps/1.png",
+            "src/assets/output/movie/2.png",
+            "src/assets/output/movie/3.png",
+            "src/assets/output/movie/4.png",
+            "src/assets/output/movie/5.png",
+            "src/assets/output/movie/6.png",
+            "src/assets/output/movie/7.png"
+        ],
+        "text_title": "RPS",
+        "text_desc": "Simple game in Javascript Rock, Paper and Scissors ",
+        "year": "SEPTEMBER 2019"
+    }
+]

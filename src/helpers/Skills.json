@@ -1,0 +1,15 @@
+[
+    { "name": "Javascript", "icon": "fab fa-js-square" },
+    { "name": "HTMl", "icon": "fab fa-html5" },
+    { "name": "CSS", "icon": "fab fa-css3-alt" },
+    { "name": "PHP", "icon": "fab fa-php" },
+    { "name": "Bootstrap", "icon": "fab fa-bootstrap" },
+    { "name": "Vuetify", "icon": "fab fa-vuejs" },
+    { "name": "React JS", "icon": "fab fa-react" },
+    { "name": "Laravel", "icon": "fab fa-laravel" },
+    { "name": "Vue JS", "icon": "fab fa-vuejs" },
+    { "name": "Python", "icon": "fab fa-python" },
+    { "name": "MySql", "icon": "fab fa-python" },
+    { "name": "MongoDB", "icon": "fab fa-python" },
+    { "name": "Node Js", "icon": "fab fa-node" }
+]
